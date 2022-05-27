@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cards_array">
+        <item>Шут</item>
+        <item>Маг</item>
+        <item>Верховная жрица</item>
+        <item>Императрица</item>
+        <item>Император</item>
+        <item>Верховный жрец</item>
+        <item>Влюбленные</item>
+        <item>Колесница</item>
+        <item>Правосудие</item>
+        <item>Отшельник</item>
+        <item>Колесо Фортуны</item>
+        <item>Сила</item>
+        <item>Повешенный</item>
+        <item>Смерть</item>
+        <item>Воздержание</item>
+        <item>Дьявол</item>
+        <item>Башня</item>
+        <item>Звезда</item>
+        <item>Луна</item>
+        <item>Солнце</item>
+        <item>Суд</item>
+        <item>Мир</item>
+        <item>Король Жезлов</item>
+        <item>Дама Жезлов</item>
+        <item>Рыцарь Жезлов</item>
+        <item>Валет Жезлов</item>
+        <item>Десятка Жезлов</item>
+        <item>Девятка Жезлов</item>
+        <item>Восьмерка Жезлов</item>
+        <item>Семерка Жезлов</item>
+        <item>Шестерка Жезлов</item>
+        <item>Пятерка Жезлов</item>
+        <item>Четверка Жезлов</item>
+        <item>Тройка Жезлов</item>
+        <item>Двойка Жезлов</item>
+        <item>Туз Жезлов</item>
+        <item>Король Чаш</item>
+        <item>Дама Чаш</item>
+        <item>Рыцарь Чаш</item>
+        <item>Валет Чаш</item>
+        <item>Десятка Чаш</item>
+        <item>Девятка Чаш</item>
+        <item>Восьмерка Чаш</item>
+        <item>Семерка Чаш</item>
+        <item>Шестерка Чаш</item>
+        <item>Пятерка Чаш</item>
+        <item>Четверка Чаш</item>
+        <item>Тройка Чаш</item>
+        <item>Двойка Чаш</item>
+        <item>Туз Чаш</item>
+        <item>Король Мечей</item>
+        <item>Дама Мечей</item>
+        <item>Рыцарь Мечей</item>
+        <item>Валет Мечей</item>
+        <item>Десятка Мечей</item>
+        <item>Девятка Мечей</item>
+        <item>Восьмерка Мечей</item>
+        <item>Семерка Мечей</item>
+        <item>Шестерка Мечей</item>
+        <item>Пятерка Мечей</item>
+        <item>Четверка Мечей</item>
+        <item>Тройка Мечей</item>
+        <item>Двойка Мечей</item>
+        <item>Туз Мечей</item>
+        <item>Король Пентаклей</item>
+        <item>Дама Пентаклей</item>
+        <item>Рыцарь Пентаклей</item>
+        <item>Валет Пентаклей</item>
+        <item>Десятка Пентаклей</item>
+        <item>Девятка Пентаклей</item>
+        <item>Восьмерка Пентаклей</item>
+        <item>Семерка Пентаклей</item>
+        <item>Шестерка Пентаклей</item>
+        <item>Пятерка Пентаклей</item>
+        <item>Четверка Пентаклей</item>
+        <item>Тройка Пентаклей</item>
+        <item>Двойка Пентаклей</item>
+        <item>Туз Пентаклей</item>
+    </string-array>
+</resources>
