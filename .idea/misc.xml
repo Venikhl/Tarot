@@ -6,7 +6,7 @@
         <entry key="..\:/Users/gopav/AndroidStudioProjects/Tarot/app/src/main/res/drawable-v24/circle_button.xml" value="0.2755208333333333" />
         <entry key="..\:/Users/gopav/AndroidStudioProjects/Tarot/app/src/main/res/drawable-v24/rectangle_button.xml" value="0.2755208333333333" />
         <entry key="..\:/Users/gopav/AndroidStudioProjects/Tarot/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2755208333333333" />
-        <entry key="..\:/Users/gopav/AndroidStudioProjects/Tarot/app/src/main/res/layout/activity_all_signs.xml" value="0.264" />
+        <entry key="..\:/Users/gopav/AndroidStudioProjects/Tarot/app/src/main/res/layout/activity_all_signs.xml" value="0.5" />
         <entry key="..\:/Users/gopav/AndroidStudioProjects/Tarot/app/src/main/res/layout/activity_all_sings.xml" value="0.25679347826086957" />
         <entry key="..\:/Users/gopav/AndroidStudioProjects/Tarot/app/src/main/res/layout/activity_card_amount_for_fortune_telling.xml" value="0.25679347826086957" />
         <entry key="..\:/Users/gopav/AndroidStudioProjects/Tarot/app/src/main/res/layout/activity_card_description.xml" value="0.25679347826086957" />
@@ -14,7 +14,7 @@
         <entry key="..\:/Users/gopav/AndroidStudioProjects/Tarot/app/src/main/res/layout/activity_choose_sing_action.xml" value="0.2210144927536232" />
         <entry key="..\:/Users/gopav/AndroidStudioProjects/Tarot/app/src/main/res/layout/activity_fortune_telling.xml" value="0.4" />
         <entry key="..\:/Users/gopav/AndroidStudioProjects/Tarot/app/src/main/res/layout/activity_main.xml" value="0.536" />
-        <entry key="..\:/Users/gopav/AndroidStudioProjects/Tarot/app/src/main/res/layout/activity_questions.xml" value="0.25679347826086957" />
+        <entry key="..\:/Users/gopav/AndroidStudioProjects/Tarot/app/src/main/res/layout/activity_questions.xml" value="0.5" />
         <entry key="..\:/Users/gopav/AndroidStudioProjects/Tarot/app/src/main/res/layout/activity_sign_unit.xml" value="0.25679347826086957" />
         <entry key="..\:/Users/gopav/AndroidStudioProjects/Tarot/app/src/main/res/layout/activity_sing_compatibility.xml" value="0.21603260869565216" />
         <entry key="..\:/Users/gopav/AndroidStudioProjects/Tarot/app/src/main/res/layout/activity_sing_unit.xml" value="0.25679347826086957" />
@@ -29,5 +29,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
   </component>
 </project>

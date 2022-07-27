@@ -51,7 +51,7 @@ public class AllSignsActivity extends AppCompatActivity {
 
 
         if(chosen_activity.contains("SignUnitActivity")) {
-            tvName.setText("Description");
+            tvName.setText("Recital");
         }
         if(chosen_activity.contains("SingCompatibilityActivity")) {
             tvName.setText("Sympathy");
